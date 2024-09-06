@@ -1,0 +1,198 @@
+*{
+    margin: 0px;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+.primero{
+    background-color: #1f2937;
+}
+
+
+
+.cua{
+    padding: 5px 150px;
+    display: flex;
+}
+
+.cuadro{
+    padding: 50px 150px;
+    
+    
+    display: flex;
+    justify-content: center;
+   
+}
+
+header{
+    font-size: 24px;
+    color: #f9faf8;
+    font-weight: 1000;
+    width: 50%;
+}
+
+.link{
+    font-size: 15px;
+    color: #f9faf8;
+   width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    gap: 15px;
+}
+
+ 
+
+.uno{
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+    width: 300px;
+    order: 2;
+}
+
+    
+.dos{
+    font-size: 14px;
+    color: #858883;
+    width: 300px;
+    order: 3;
+}
+
+.tres{
+    font-size: 14px;
+    color: #f9faf8;
+    background-color: #3882f8;
+    width: 50px;
+    padding: 3px 10px;
+order: 4;
+}
+
+.img{
+    color: white;
+    background-color: #5c5c5c;
+    width: 400px;
+    text-align: center;
+    padding: 50px  ;
+    order: 1;
+    margin: 0% 5%;
+}
+
+.segundo{
+   text-align: center;
+ 
+}
+
+.some{
+    padding: 20px 0px;
+    font-size: 30px;
+    color: #1f2937;
+    font-weight: 900;
+}
+    
+.imagenes{
+    display: flex;
+    justify-content: center;
+ gap: 50px;
+ padding: 1% 0%;
+}
+
+    .imagenes img{
+    border: 3px solid #3882f8;
+    text-align: center;
+    }
+
+.cuadros{
+    display: flex;
+   flex-direction: column;
+ width: 5%;
+}
+
+.imagenes p{
+    font-size: 10px;
+    color: #858883;
+    
+}
+
+
+.info{
+    font-size: 36px light italic;
+    color: #1f2937;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.aut{
+    color: black;
+ justify-content: center;
+ text-align: end;
+ width: 82%;
+}
+
+.informacion{
+    background-color: #e5e7eb;
+  
+   padding: 70px 50px;
+}
+
+.call{
+    color: #f9faf8;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.sig{
+    font-size: 15px;
+    color: #f9faf8;
+}
+
+.up{
+    font-size: 17px;
+    border: 3px #f9faf8 solid ;
+    height: 50%;
+    color: #f9faf8;
+    margin: 15px;
+    width: 30%;
+    text-align: center;
+}
+
+.ade{
+    background-color: #3882f8;
+    width: 50%;
+}
+
+
+.ulti{
+    background-color: #f9faf8;
+    padding: 3% 25%;
+    
+    
+}
+
+.te{
+    background-color: #3882f8;
+    display: flex;
+    padding: 5%;
+    
+}
+
+.u {
+    
+    display: flex;
+    justify-content: center;
+    width: 50%;
+}
+
+.copi{
+font-size: 15px;
+color: #f9faf8;
+
+}
+
+.final{
+background-color: #1f2937;
+text-align: center;
+padding: 25px;
+} 
